@@ -24,7 +24,25 @@ java Main
 ```
 
 ## Capturas de pantalla de la consola
-_(Pega aquí las capturas de pantalla de la ejecución del programa)_
+Imagen 1: Inicio del programa, esperando el primer valor del vector.
+<img width="1492" height="616" alt="image1" src="https://github.com/user-attachments/assets/2cbaa689-171a-4bee-a6e2-43070ffb25a8" />
+
+Imagen 2: Validación de rango — el programa rechaza el número 1 por estar fuera de 10-100 y lo vuelve a pedir.
+<img width="1361" height="473" alt="image2" src="https://github.com/user-attachments/assets/62ec92c4-db6a-4cc5-a199-d031e9e28f1f" />
+
+Imagen 3: Continúa el llenado del vector, rechazando también el número 101 por superar el límite.
+<img width="1484" height="467" alt="image3" src="https://github.com/user-attachments/assets/d5062285-41d4-44f2-b062-f1136359bb04" />
+
+Imagen 4: Vector completo ya lleno, búsqueda del número 50 (no está en el vector) y detección del mayor (100) y menor (10).
+<img width="935" height="402" alt="image4" src="https://github.com/user-attachments/assets/d8a87203-97fe-4b75-ae05-c1b173f598e9" />
+
+Imagen 5: Búsqueda de múltiplos de 11 con resultados, suma total, promedio y vector con los números por encima del promedio.
+<img width="855" height="385" alt="image5" src="https://github.com/user-attachments/assets/0fd0a60c-ec57-4c99-9940-3c06b57808e2" />
+
+Imagen 6: Otra corrida completa — búsqueda del número 20 (sí está, en la posición 9), sus múltiplos, suma, promedio y el vector resultante.
+<img width="914" height="591" alt="image6" src="https://github.com/user-attachments/assets/cd76d39e-8b48-4e59-a65b-75d0cdb265ea" />
+
+
 
 ## Video de sustentación
-_(Pega aquí el link del video — YouTube, Drive o GitHub)_
+https://drive.google.com/file/d/10ZBVCPMMN0nrOV2VDJObcVhOsHIZEJ6X/view?usp=drive_link
