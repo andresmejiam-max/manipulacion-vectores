@@ -138,7 +138,7 @@ public class Main {
 
     static int leerEntero(Scanner sc) {
         while (!sc.hasNextInt()) {
-            System.out.print("Entrada inválida. Ingrese un número entero: ");
+            System.out.println("Entrada inválida. Ingrese un número entero.");
             sc.next();
         }
         return sc.nextInt();
