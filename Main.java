@@ -136,6 +136,8 @@ public class Main {
         sc.close();
     }
 
+    // Valida que lo ingresado sea un número entero.
+    // Si escriben letras o un decimal, descarta ese dato y lo vuelve a pedir.
     static int leerEntero(Scanner sc) {
         while (!sc.hasNextInt()) {
             System.out.println("Entrada inválida. Ingrese un número entero.");
