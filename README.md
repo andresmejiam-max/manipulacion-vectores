@@ -17,11 +17,8 @@ El programa `Main.java`:
 ## Cómo ejecutar
 Requiere JDK (Eclipse Temurin recomendado) y VS Code con la extensión de Java.
 
-```bash
-cd src
-javac Main.java
-java Main
-```
+   javac Main.java
+   java Main
 
 ## Capturas de pantalla de la consola
 Imagen 1: Inicio del programa, esperando el primer valor del vector.
